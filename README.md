@@ -125,7 +125,7 @@ arch-chroot
 ln -sf /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
 
 #sync time with device
-hwclock --systhoc
+hwclock --systohc
 ```
 
 ### 5.1 Configuring localtime
