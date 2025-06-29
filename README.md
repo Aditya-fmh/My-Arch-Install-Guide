@@ -79,11 +79,11 @@ mkswap /your-swap-partition
 
 ```bash
 #mount root partition
-mount /your-root-partition
+mount /your-root-partition /mnt
 
 #mount efi partition
 mkdir -p /mnt/boot/efi
-mount /your-efi-partition
+mount /your-efi-partition /mnt/boot/efi
 
 #turn on swap partition
 swapon
