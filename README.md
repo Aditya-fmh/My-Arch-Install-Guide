@@ -1,3 +1,6 @@
+# Arch Linux Manual Installation Guide Me Version
+
+Sometimes i forgot some step, this is just for a reminder or maybe someone also looking for this guide (which is unlikely since there is a lot of guide on internet).
 
 ## 1. Connect to the internet
 
