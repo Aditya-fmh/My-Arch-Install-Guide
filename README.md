@@ -119,7 +119,7 @@ This is for single boot linux, idk about dual booting
 After finished installing all the packages, now we enter the system to configure some setting
 
 ```bash
-arch-chroot
+arch-chroot /mnt
 
 #setting timezone
 ln -sf /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
