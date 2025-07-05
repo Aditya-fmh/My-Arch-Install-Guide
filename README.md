@@ -171,7 +171,7 @@ uncomment %wheel ALL=(ALL:ALL) ALL
 
 ```bash
 #enable networkmanager
-systemctl enable networkmanager
+systemctl enable NetworkManager
 
 #enable ssh
 systemctl enable sshd
