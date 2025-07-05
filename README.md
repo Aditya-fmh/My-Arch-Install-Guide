@@ -148,7 +148,7 @@ then add LANG=en_US.UTF-8
 
 ```bash
 #set hostname
-nano /etc/Hostname
+nano /etc/hostname
 
 #set root password
 passwd
