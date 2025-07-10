@@ -86,7 +86,7 @@ mkdir -p /mnt/boot/efi
 mount /your-efi-partition /mnt/boot/efi
 
 #turn on swap partition
-swapon
+swapon /your-swap-partition
 ```
 
 ## 3. Installing Important Packages
